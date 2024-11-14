@@ -1,4 +1,4 @@
-change dine by Anna
+change oine by Anna and Mari.
 # Guacamole
 ## Ingredients
 * avocado
