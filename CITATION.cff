@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Raudstein"
-  given-names: "YMari"
+  given-names: "Mari"
   orcid: "https://orcid.org/0000-0002-4675-5615"
 title: "recipes"
 version: 1.0.0
